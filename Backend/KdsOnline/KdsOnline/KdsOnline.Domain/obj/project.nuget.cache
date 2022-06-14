@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7HW4foq6m1Uszj8Gzg718FsqmatoRywmbxXtpLN7X8Ll27/NPW8ehFWjjkdZYdZ9knug3r8mNuXrguxDC9AlFQ==",
+  "dgSpecHash": "ETv/EodzZO99cEOefuxZTgjHol477z1vy0yvKjmw+AdQdxQI68zFSAH90qZItc5ZQMQ2Et4XumRklMBArXjx8Q==",
   "success": true,
-  "projectFilePath": "D:\\_Code\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Domain\\KdsOnline.Domain.csproj",
+  "projectFilePath": "c:\\_dev\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Domain\\KdsOnline.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

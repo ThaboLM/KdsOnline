@@ -23,3 +23,16 @@ D:\_Code\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\n
 D:\_Code\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.csproj.CoreCompileInputs.cache
 D:\_Code\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.dll
 D:\_Code\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.pdb
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\bin\Debug\netstandard2.1\KdsOnline.Application.deps.json
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\bin\Debug\netstandard2.1\KdsOnline.Application.dll
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\bin\Debug\netstandard2.1\KdsOnline.Application.pdb
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\bin\Debug\netstandard2.1\KdsOnline.Domain.dll
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\bin\Debug\netstandard2.1\KdsOnline.Domain.pdb
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.csproj.AssemblyReference.cache
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.AssemblyInfoInputs.cache
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.AssemblyInfo.cs
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.csproj.CoreCompileInputs.cache
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.csproj.CopyComplete
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.dll
+c:\_dev\KdsOnline\Backend\KdsOnline\KdsOnline\KdsOnline.Application\obj\Debug\netstandard2.1\KdsOnline.Application.pdb

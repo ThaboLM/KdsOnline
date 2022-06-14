@@ -1556,39 +1556,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thabo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\MotsiboniT\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "D:\\_Code\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Infrastructure.Shared\\KdsOnline.Infrastructure.Shared.csproj",
+      "projectUniqueName": "c:\\_dev\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Infrastructure.Shared\\KdsOnline.Infrastructure.Shared.csproj",
       "projectName": "KdsOnline.Infrastructure.Shared",
-      "projectPath": "D:\\_Code\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Infrastructure.Shared\\KdsOnline.Infrastructure.Shared.csproj",
-      "packagesPath": "C:\\Users\\Thabo\\.nuget\\packages\\",
-      "outputPath": "D:\\_Code\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Infrastructure.Shared\\obj\\",
+      "projectPath": "c:\\_dev\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Infrastructure.Shared\\KdsOnline.Infrastructure.Shared.csproj",
+      "packagesPath": "C:\\Users\\MotsiboniT\\.nuget\\packages\\",
+      "outputPath": "c:\\_dev\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Infrastructure.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thabo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\MotsiboniT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/innovation-group/IG.ZA/_packaging/IGZA-Packages/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\_Code\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Application\\KdsOnline.Application.csproj": {
-              "projectPath": "D:\\_Code\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Application\\KdsOnline.Application.csproj"
+            "c:\\_dev\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Application\\KdsOnline.Application.csproj": {
+              "projectPath": "c:\\_dev\\KdsOnline\\Backend\\KdsOnline\\KdsOnline\\KdsOnline.Application\\KdsOnline.Application.csproj"
             }
           }
         }
@@ -1631,7 +1631,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
